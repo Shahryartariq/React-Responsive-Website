@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Responsive-Website/static/css/main.6106d71b.chunk.css",
+    "main.js": "/React-Responsive-Website/static/js/main.2e8a5316.chunk.js",
+    "main.js.map": "/React-Responsive-Website/static/js/main.2e8a5316.chunk.js.map",
+    "runtime-main.js": "/React-Responsive-Website/static/js/runtime-main.93037187.js",
+    "runtime-main.js.map": "/React-Responsive-Website/static/js/runtime-main.93037187.js.map",
+    "static/css/2.bb1969c9.chunk.css": "/React-Responsive-Website/static/css/2.bb1969c9.chunk.css",
+    "static/js/2.3fdfe1e9.chunk.js": "/React-Responsive-Website/static/js/2.3fdfe1e9.chunk.js",
+    "static/js/2.3fdfe1e9.chunk.js.map": "/React-Responsive-Website/static/js/2.3fdfe1e9.chunk.js.map",
+    "static/js/3.c1b67710.chunk.js": "/React-Responsive-Website/static/js/3.c1b67710.chunk.js",
+    "static/js/3.c1b67710.chunk.js.map": "/React-Responsive-Website/static/js/3.c1b67710.chunk.js.map",
+    "index.html": "/React-Responsive-Website/index.html",
+    "static/css/2.bb1969c9.chunk.css.map": "/React-Responsive-Website/static/css/2.bb1969c9.chunk.css.map",
+    "static/css/main.6106d71b.chunk.css.map": "/React-Responsive-Website/static/css/main.6106d71b.chunk.css.map",
+    "static/js/2.3fdfe1e9.chunk.js.LICENSE.txt": "/React-Responsive-Website/static/js/2.3fdfe1e9.chunk.js.LICENSE.txt",
+    "static/media/About.4d6e1d3f.jpg": "/React-Responsive-Website/static/media/About.4d6e1d3f.jpg",
+    "static/media/Home.3bdfc174.jpg": "/React-Responsive-Website/static/media/Home.3bdfc174.jpg",
+    "static/media/t1.835f6875.jpeg": "/React-Responsive-Website/static/media/t1.835f6875.jpeg",
+    "static/media/t2.9de02a70.jpeg": "/React-Responsive-Website/static/media/t2.9de02a70.jpeg",
+    "static/media/t3.2df8cdff.jpeg": "/React-Responsive-Website/static/media/t3.2df8cdff.jpeg",
+    "static/media/t4.73a93474.jpeg": "/React-Responsive-Website/static/media/t4.73a93474.jpeg",
+    "static/media/t5.0692b493.jpeg": "/React-Responsive-Website/static/media/t5.0692b493.jpeg",
+    "static/media/t6.fc5153ec.jpeg": "/React-Responsive-Website/static/media/t6.fc5153ec.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93037187.js",
+    "static/css/2.bb1969c9.chunk.css",
+    "static/js/2.3fdfe1e9.chunk.js",
+    "static/css/main.6106d71b.chunk.css",
+    "static/js/main.2e8a5316.chunk.js"
+  ]
+}
