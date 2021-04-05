@@ -1,0 +1,19 @@
+import React from "react";
+
+const Home = () =>{
+    return (
+        <>
+        <h1>Welcome Home Page</h1>
+        </>
+    );
+}
+export default Home;
+
+
+ <div className="container-fluid">
+        <div className="row">
+            <div className="col-10 mx-auto">
+                
+            </div>
+        </div>
+    </div>
